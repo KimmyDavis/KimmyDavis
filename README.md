@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KimmyDavis
-- 👀 I’m interested in web and android development
-- 🌱 I’m currently learning javasript and css
+- 👀 I’m a web and android developmer
+- 🌱 I’m currently learning react, react-native and nodejs
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me kimdev@mail.com
 - It's the code for me
