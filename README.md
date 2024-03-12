@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KimmyDavis
-- 👀 I’m a web and android developmer
+- 👀 I’m a web and android developer
 - 🌱 I’m currently learning react, react-native and nodejs
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me kimdev@mail.com
