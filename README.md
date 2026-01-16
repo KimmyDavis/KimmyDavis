@@ -90,9 +90,6 @@
   <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> 
   </a> 
-  <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> 
-    <img src="https://www.logo.wine/a/logo/Adobe_XD/Adobe_XD-Logo.wine.svg" alt="xd" width="40" height="40"/> 
-  </a> 
 </p>
 <hr>
 
