@@ -1,8 +1,6 @@
 <h1 align="center">Hello world👋, I'm Davis Kimmy</h1>
 <h3 align="center">A passionate developer and graphics designer</h3>
 
-- 🔭 I’m currently working on **gredmo, a great project**
-
 - 🌱 I’m currently learning **programming with python**
 
 - 👯 I’m looking to collaborate on **any software dev project**
